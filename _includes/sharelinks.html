@@ -1,1 +1,15 @@
-<span style="color: silver;"><a href={{page.url}}>Permalink</a></span>
+<script>
+    function copyLink() {
+        var msg = "Link copied!"
+        var el = document.getElementById("copylink");
+        el.innerHTML = "Link copied";
+        setTimeout(function () {
+            el.innerHTML = "Copy Link";
+        }, 5000);
+        navigator.clipboard.writeText(el.href);
+    }
+</script>
+
+<span style="color: silver;">
+    <a href="{{page.url}}" id="copylink" onclick="copyLink()">Copy link</a></p>
+</span>
