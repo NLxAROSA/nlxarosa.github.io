@@ -1,8 +1,6 @@
-So you feel bad about deploying on Friday because it may ruin your weekend?
-But deploying on Monday and ruining your workdays, your teams workdays and your customers time is fine?
+So deploying on Friday feels bad because it may ruin your weekend?
+But deploying on Monday and ruining your workdays, your teams workdays and your customers time doesn't?
 
-Doesn't that sound awful?
+Doesn't that sound awful? What if you could deploy and rollback with confidence?
 
-What if you could deploy and rollback with confidence? But don't know where to start?
-
-Don't worry! I got you with this blog!
+Fear not and read on!
