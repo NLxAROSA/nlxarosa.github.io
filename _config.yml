@@ -6,7 +6,7 @@ description: "Helping developers build better software better" # This will show 
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
 #twitter_username: "twitteruser"
-bluesky_username: "larsrosenquist"
+bluesky: "larsrosenquist"
 github_username: "nlxarosa"
 linkedin_username: "larsrosenquist"
 mastodon:
