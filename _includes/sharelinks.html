@@ -2,12 +2,11 @@
     function copyLink() {
         var msg = "Link copied!"
         var el = document.getElementById("copylink");
+        navigator.clipboard.writeText(el.getAttribute("data-page-url"));
         el.innerHTML = "Link copied";
-        el.preventDefault();
         setTimeout(function () {
             el.innerHTML = "Copy Link";
-        }, 5000);
-        navigator.clipboard.writeText(el.getAttribute("data-page-url"));
+        }, timeout||3000);
     }
 </script>
 
