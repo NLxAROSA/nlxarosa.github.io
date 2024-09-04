@@ -1,15 +1,16 @@
 <script>
     function copyLink() {
         var msg = "Link copied!"
-        var el = document.getElementById("copylink");
-        navigator.clipboard.writeText(el.getAttribute("data-page-url"));
-        el.innerHTML = "Link copied";
+        var cl = document.getElementById("copylink");
+        var pl = document.getElementById("pagelink");
+        navigator.clipboard.writeText(pl.href);
+        cl.innerHTML = "Link copied";
         setTimeout(function () {
-            el.innerHTML = "Copy Link";
+            cl.innerHTML = "Copy Link";
         }, 3000);
     }
 </script>
 
 <span style="color: silver;">
-    <p data-page-url="{{page.url}}" id="copylink" onclick="copyLink()">Copy link</p>
+    <a href="{{page.url}}" id="pagelink"></a><p id="copylink" onclick="copyLink()">Copy link</p>
 </span>
