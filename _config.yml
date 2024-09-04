@@ -5,19 +5,12 @@ description: "Helping developers build better software better" # This will show 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
-#twitter_username: "twitteruser"
-bluesky: "larsrosenquist"
+bluesky_username: "larsrosenquist"
 github_username: "nlxarosa"
 linkedin_username: "larsrosenquist"
 mastodon:
 - username: "larsrosenquist"
   instance: "mastodon.social" 
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
