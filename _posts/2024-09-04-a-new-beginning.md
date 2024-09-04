@@ -1,6 +1,6 @@
 ## A New Beginning
 
-<img align="left" src="/img/newdawn.png" height=100/>
+<kbd><img align="left" src="/img/newdawn.png" height=100/></kbd>
 
 It was long overdue, but it's finally here. The latest iteration of 'Deploy on Friday!' is live! And setting up a blog in 2024 is so easy, it's literally just minutes, and I'll explain in a following post. ;)
 
