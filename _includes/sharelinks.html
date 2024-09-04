@@ -3,6 +3,7 @@
         var msg = "Link copied!"
         var el = document.getElementById("copylink");
         el.innerHTML = "Link copied";
+        el.preventDefault();
         setTimeout(function () {
             el.innerHTML = "Copy Link";
         }, 5000);
