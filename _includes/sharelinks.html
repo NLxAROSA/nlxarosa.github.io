@@ -7,10 +7,10 @@
         setTimeout(function () {
             el.innerHTML = "Copy Link";
         }, 5000);
-        navigator.clipboard.writeText(el.href);
+        navigator.clipboard.writeText(el.getAttribute("data-page-url"));
     }
 </script>
 
 <span style="color: silver;">
-    <a href="{{page.url}}" id="copylink" onclick="copyLink()">Copy link</a></p>
+    <p data-page-url="{{page.url}}" id="copylink" onclick="copyLink()">Copy link</p>
 </span>
