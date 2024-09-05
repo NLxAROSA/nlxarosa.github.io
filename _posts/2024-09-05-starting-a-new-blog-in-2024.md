@@ -4,7 +4,7 @@ Starting a new blog in 2024 (or reviving an old one) can be an intimidating chal
 
 ### GitHub Pages
 
-GitHub offers a free service calles [GitHub Pages](https://pages.github.com/). You create a repository called `yourusername.github.io`, put an index.html in there, and you have a working website at https://yourusername.github.io. This is pretty neat and very simple. You can add your own [custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) there as well, and GitHub will handle TLS certificates for you via [Let's Encrypt](https://letsencrypt.org/). If you already own a domain, it's a matter of adding an A-record and and specifying the domain name to GitHub. I started with zero knowledge of the above and had this setup in 10 minutes.
+GitHub offers a free service calles [GitHub Pages](https://pages.github.com/). You create a repository named `yourusername.github.io`, put an index.html in there, and you have a working website at https://yourusername.github.io. This is pretty neat and very simple. You can add your own [custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) there as well, and GitHub will handle TLS certificates for you via [Let's Encrypt](https://letsencrypt.org/). If you already own a domain, it's a matter of adding an A-record and and specifying the domain name to GitHub. I started with zero knowledge of the above and had this setup in 10 minutes.
 
 ### Jekyll
 
@@ -16,4 +16,4 @@ Writing posts is a matter of writing a [GitHub Markdown](https://docs.github.com
 
 ### My philosophy
 
-Keep it simple. Personally I'm tired of all the 'social' networks and the walled gardens they create. I'm using [Mastodon](https://mastodon.social/@larsrosenquist) more and more these days as well as dedicated forum websites for my hobbies and other interests. So no social sharing links on my blog (though I made it easy to copy the link of each article, did you notice?), no ads, no analytics, no data farming, just plain content, like a psycho from the 90s/00s. ;)
+Keep it simple. Personally I'm tired of all the 'social' networks and the walled gardens they create. I'm using [Mastodon](https://mastodon.social/@larsrosenquist) more and more these days as well as dedicated forum websites for my hobbies and other interests. So no social sharing links on my blog (though I made it easy to copy the link of each article, did you notice?), no ads, no analytics, no data farming, no needlessly verbose content to boost SEO, just plain content, like a psycho from the 90s/00s. ;)
