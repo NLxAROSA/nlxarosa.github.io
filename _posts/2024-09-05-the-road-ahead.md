@@ -25,10 +25,11 @@ As part of brushing up my own skills on the latest and greatest that Java has to
 * Building fast applications using [Valkey](https://valkey.io/).
 
 ### Zoom APIs and SDKs
-Zoom has a lot of cool features for developers that want to do more with Zoom products and features. Meeting SDK, Video SDK, APIs and much more. This goes way beyond just meetings and I'll show how.
+Zoom has a lot of cool features for developers that want to do more with Zoom products and features. [Meeting SDK](https://developers.zoom.us/docs/meeting-sdk/), [Video SDK](https://developers.zoom.us/docs/video-sdk/), [APIs](https://developers.zoom.us/docs/api/) and much more. This goes way beyond just meetings and I'll show you what cool stuff you can do!
 
-* Using Java + Spring Boot to schedule meetings and sessions
-* Using JavaScript to run a Zoom Meeting or Zoom Video SDK session in your own web app
+* Using Zoom APIs and generating JWT tokens ([Sample app for Video SDK](https://github.com/NLxAROSA/zoom-vdsk-auth-endpoint))
+* Using Java + Spring Boot to schedule meetings and sessions (sample app incoming very soon)
+* Using JavaScript to run a Zoom Meeting or Zoom Video SDK session in your own web app ([Sample app](https://github.com/zoom/videosdk-ui-toolkit-javascript-sample))
 * Using Zoom for video applications that are not meetings.
 
 ### Generative AI and LLMs
