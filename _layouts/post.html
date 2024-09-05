@@ -22,6 +22,9 @@ layout: default
   </div>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if post.image_url -%}
+    <img align="left" src="{{post.image_url | relative_url }}" height="25%"/>
+    {%- endif -%}
     {{ content }}
     {% include navlinks.html %}
   </div>
