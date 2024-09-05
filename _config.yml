@@ -3,12 +3,15 @@ author: "Lars Rosenquist"
 description: "Helping developers build better software better" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 show_excerpts: true
-bluesky_username: "larsrosenquist.bsky.social"
+
 github_username: "nlxarosa"
 linkedin_username: "larsrosenquist"
 mastodon:
 - username: "larsrosenquist"
   instance: "mastodon.social" 
+bluesky:
+- username: "larsrosenquist"
+  instance: "bsky.social"
 
 theme: "minima"
 
