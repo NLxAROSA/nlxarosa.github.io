@@ -4,7 +4,7 @@ date:   2024-09-05 22:00:00 +0200
 
 ## Blog Roadmap
 
-<img align="left" src="/img/roadmap.png" width="64"/>A blog is worthless if it doesn't get quality updates in a regular cadence. Most blogs die when the author(s) run out of ideas. While that certainly may happen in the future, I've got a good pipeline of incoming articles at the ready, on a variety of topics. So let's take a look!
+<img align="left" src="/img/roadmap.png" width="64"/>A blog is worthless if it doesn't have a decent amount of quality content. My previous blog died after a handful of ideas. While that certainly may happen again in the future, I've got a good pipeline of incoming articles at the ready, on a variety of topics. So let's take a closer look, shall we?!
 
 ### Deploy on Friday
 Deploy on Friday is the OG series of articles this blog started with all the way back in 2018 and I intend to run a series of articles on how to make deploying to production a whole lot less scary; on any day of the week, not just Friday. I'll go over the following sub-topics:
