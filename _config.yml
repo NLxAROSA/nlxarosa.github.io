@@ -6,6 +6,7 @@ show_excerpts: true
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
+bluesky_username: "larsrosenquist.bsky.social"
 github_username: "nlxarosa"
 linkedin_username: "larsrosenquist"
 mastodon:
