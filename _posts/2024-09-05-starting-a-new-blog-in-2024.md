@@ -1,3 +1,7 @@
+---
+date:   2024-09-05 08:00:00 +0200
+---
+
 ## Starting a new blog in 2024
 
 <img align="left" src="/img/newblog.png" width="64"/>Starting a new blog in 2024 (or reviving an old one) can be an intimidating challenge. There are so many options to choose from, with varying levels of costs and complexity. So how did I go about it?
