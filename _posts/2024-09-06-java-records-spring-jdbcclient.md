@@ -12,6 +12,8 @@ I was working on a sample application for a different purpose and needed a quick
 
 I had very low expectations of success due to all the publications and horror stories around Java Records and persistence, so I was pleasantly surprised to learn that Java records work with JdbcClient and [RowMapper](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/core/RowMapper.html) just fine, and it's fairly simple too! Note that I did not implement common functionality such as transaction management, input validation, etc. to keep the example clean, but it should not be a problem to add later.
 
+For those who just want to check out the entire app and code, it's on [GitHub](https://github.com/NLxAROSA/jdbcrecordsdemo).
+
 ## Configuration
 
 #### Using an embedded H2 database
@@ -114,7 +116,7 @@ private RowMapper<ScheduledSession> rowMapper = (rs, rowNum) -> new ScheduledSes
             rs.getTimestamp("start_date").toLocalDateTime());
 ```
 
-And that's all there is to it. Checkout the full and working source code on GitHub. It contains all this code and a few tests to verify that it actually all works.
+And that's all there is to it. Checkout the full and working source code [on GitHub](https://github.com/NLxAROSA/jdbcrecordsdemo). It contains all this code and a few tests to verify that it actually all works.
 
 ## Conclusion
 
