@@ -1,5 +1,6 @@
 ---
 date:   2024-09-06 08:00:00 +0200
+image: /img/jdbc.png
 ---
 
 ## Java Records and Spring JdbcClient

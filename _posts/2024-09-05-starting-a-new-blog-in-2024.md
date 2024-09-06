@@ -1,5 +1,6 @@
 ---
 date:   2024-09-05 08:00:00 +0200
+image: /img/newblog.png
 ---
 
 ## Starting a new blog in 2024

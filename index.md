@@ -1,3 +1,7 @@
+---
+image: /img/deployonfriday.png
+---
+
 Deploying should never be scary, regardless of the day of the week.
 
 Stories from the trenches.
