@@ -108,7 +108,7 @@ public Optional<ScheduledSession> getScheduledSession(String sessionName) {
 }
 ```
 #### Mapping ResultSet to your Java Record
-Since I'm dealing with plain JDBC, I don't have a framework like Hibernate to handle row-to-object mapping for me 'automagically'. In order for me to map a row to an object I have to provide a RowMapper that maps the values of the ResultSet onto a new ScheduledSession record.
+Since I'm dealing with plain JDBC, I don't have a framework like Hibernate to handle row-to-object mapping for me 'automagically'. In order for me to map a row to an object I have to provide a RowMapper that maps the values of the ResultSet onto a new ScheduledSession record. You could eliminate this code altogether by using a [DataClassRowMapper](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/core/DataClassRowMapper.html) instead of a custom one, at the expense of performance and being forced to map all your columns (which I, in this particular case, don't want to).
 ```java
 private RowMapper<ScheduledSession> rowMapper = (rs, rowNum) -> new ScheduledSession(
             rs.getString("session_name"),
