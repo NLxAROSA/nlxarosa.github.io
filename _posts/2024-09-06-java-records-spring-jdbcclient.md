@@ -19,7 +19,6 @@ I had very low expectations of success due to all the publications and horror st
 To configure H2 as an embedded database I'll add the H2 dependency to `pom.xml` and provide the following configuration in `application.properties`. Spring Boot will create a `DataSource` for H2 and autowire it in any `JdbcClient` that I inject into the constructor of one of my Spring beans. In order to make that possible I also added the [Spring Boot starter](https://github.com/spring-projects/spring-boot/tree/main/spring-boot-project/spring-boot-starters) for JDBC.
 
 ```xml
-{% highlight xml %}
 <dependency>
   <groupId>org.springframework.boot</groupId>
   <artifactId>spring-boot-starter-jdbc</artifactId>
@@ -30,7 +29,6 @@ To configure H2 as an embedded database I'll add the H2 dependency to `pom.xml` 
   <artifactId>h2</artifactId>
   <scope>runtime</scope>
 </dependency>
-{% endhighlight %}
 ```
 
 #### Database configuration properties
