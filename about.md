@@ -5,7 +5,7 @@ image:  /img/deployonfriday.png
 tags:   [News]
 ---
 
-### About 'Deploy on Friday!'
+### What is this place?
 
 Started out as a slighty provocative way to inspire software developers and teams who can't seem to find a way out of their organisations bad practices other than simply stopping to release software.
 
