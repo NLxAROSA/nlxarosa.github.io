@@ -5,7 +5,7 @@ image: /img/jdbc.png
 
 ## Java Records and Spring JdbcClient
 
-<img align="left" src="/img/jdbc.png" width="64"/>Much has been written about [Java Records](https://docs.oracle.com/en/java/javase/14/language/records.html) not working well, or at all, in combination with [JPA](https://www.oracle.com/java/technologies/persistence-jsp.html) due to their immutability. But how about using Java Records in combination with [Spring](https://spring.io/projects/spring-framework)'s [JdbcClient](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/core/simple/JdbcClient.html)? Let's dive in and take a look!
+Much has been written about [Java Records](https://docs.oracle.com/en/java/javase/14/language/records.html) not working well, or at all, in combination with [JPA](https://www.oracle.com/java/technologies/persistence-jsp.html) due to their immutability. But how about using Java Records in combination with [Spring](https://spring.io/projects/spring-framework)'s [JdbcClient](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/core/simple/JdbcClient.html)? Let's dive in and take a look!
 
 ## Why did I do this?
 

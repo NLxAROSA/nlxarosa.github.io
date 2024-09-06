@@ -5,7 +5,7 @@ image: /img/roadmap.png
 
 ## Blog Roadmap
 
-<img align="left" src="/img/roadmap.png" width="64"/>A blog is only good if it has a decent amount of quality content. While I certainly may run out of ideas in the future, I've got a good pipeline of incoming articles at the moment, on a variety of topics. So let's take a closer look, shall we?!
+A blog is only good if it has a decent amount of quality content. While I certainly may run out of ideas in the future, I've got a good pipeline of incoming articles at the moment, on a variety of topics. So let's take a closer look, shall we?!
 
 ### Deploy on Friday
 Deploy on Friday is the OG series of articles this blog started with all the way back in 2018 and I intend to run a series of articles on how to make deploying to production a whole lot less scary; on any day of the week, not just Friday. I'll go over the following sub-topics:
