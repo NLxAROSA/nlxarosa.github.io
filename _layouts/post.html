@@ -22,7 +22,7 @@ layout: default
   </div>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ page.image }}
+    <img align="left" src="{{ page.image | relative_url}}" width="64"/>
     {{ content }}
     {% include navlinks.html %}
   </div>
