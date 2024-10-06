@@ -4,7 +4,7 @@ image:  /img/oncall.png
 tags:   [DevOps]
 ---
 
-## You build it, you run it
+## You build it, you run it, but should you?
 
 One of the prevailing DevOps mantras is "You build it, you run it!". While I agree to the overall concept, it's not one that comes without several very important prerequisites. I'm not running anything unless those are not met. Let's take a look at what they are.
 
