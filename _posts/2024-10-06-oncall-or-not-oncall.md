@@ -16,7 +16,7 @@ Short summary: management expecting 24/7 coverage from a 5/8 team. It should not
 
 People don't work in their spare time, so don't call or email them outside of working hours. Emergencies can always happen of course: that's why overtime was invented, or time-for-time. Structural on-call is not overtime; it's planned work. On-call hours should be treated as working hours; working on nights, weekends and public holidays typically means increased hourly rates as well.
 
-People should be compensated both for hours where nothing happens as well as for hours where there are incidents. Being on-call with nothing happening is still work, as those hours are still claimed by their work and can't be spent freely, so they're not free/spare time.
+People should be compensated both for hours where nothing happens as well as for hours where there are incidents. Being on-call without incidents is still work, as those hours are still claimed for work and can't be spent freely, so they're not free/spare time.
 
 People need to be available on short notice, keep a laptop nearby (even when sleeping), stay sober, stay in an area with decent network coverage, plan for interruption, etc. If a company is putting claims or restrictions on free time then it's not free time, period.
 
