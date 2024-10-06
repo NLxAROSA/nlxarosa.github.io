@@ -21,9 +21,11 @@ If the above paragraph sounds familiar: continue reading!
 
 ## The problem(s)
 
-There is actually not one single problem here, but several underling issues that intertwine. But there's a specific one that, when addressed, let's you control all the other ones, so let's focus on this one first. And that issues is: not having a mandate to actually decide anything.
+There is actually not one single problem here, but several underling ones. But there's a specific one that, when addressed, let's you control all the other ones, so let's focus on this one first, as this can make your life and job a whole lot easier, and not just in an on-call or DevOps setting. With the issue being: not having a mandate to actually decide anything.
 
-Many organizations are adamant about 'accountability' and 'responsibility' without giving their people the mandate to actually influence the outcomes they are made responsible for. It makes no sense, yet it happens all the time. And not just in a DevOps context either, but overall. Poor leadership (if you can even call it that) that wants to maintain control and take credit for successes while dumping accountability and responsibility on their teams so they have a scapegoat in case of failures. So you end up with a Personal Development Plan (PDP) with items you don't control, or on-call without the tools and data to actually fix something.
+Many organizations are adamant about 'accountability' and 'responsibility' without giving their people the mandate to actually influence the outcomes they are made responsible for. It makes no sense, yet it happens all the time. And not just in a DevOps context either, but overall.
+
+Poor leadership (if you can even call it that) that wants to maintain control and take credit for successes while dumping accountability and responsibility on their teams so they have a scapegoat in case of failures. So you end up with a Personal Development Plan (PDP) with items you don't control, or on-call without the tools and data to actually fix something.
 
 ## A different approach
 
