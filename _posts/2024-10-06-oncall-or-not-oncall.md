@@ -6,11 +6,11 @@ tags:   [DevOps]
 
 ## You build it, you run it
 
-One of the prevailing DevOps mantras is "You build it, you run it!". While I agree to the overall concept, it's not one that comes without several very important prerequisites. I'm not running anything if those are not met. Let's see what those are.
+One of the prevailing DevOps mantras is "You build it, you run it!". While I agree to the overall concept, it's not one that comes without several very important prerequisites. I'm not running anything unless those are not met. Let's take a look at what they are.
 
 ## The problem
 
-Short summary: management expecting 24/7 coverage from a 5/8 team. It should not come as a surprise that this doesn't work.
+Short summary: management expecting 24/7 coverage from a 5/8 team. It should not come as a surprise that this doesn't work, for more than one reason.
 
 ## On-call hours are working hours
 
