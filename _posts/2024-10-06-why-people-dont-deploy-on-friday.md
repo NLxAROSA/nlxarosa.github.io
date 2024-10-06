@@ -6,7 +6,9 @@ tags:   [DevOps]
 
 ## Why are people afraid to deploy on Friday?
 
-Before wondering how we are going to address the problem of people being afraid to deploy on Friday (or any other day of the week for that matter), we should first understand WHY people are afraid. You can't fix what you don't understand. The 'never deploy on Friday' statement is not just a blanket statement, it's also just a patch to fight a symptom, not actually addressing the root causes(s) that are underneath. And there are quite a few underlying issues, so let's start with the most important one and work from there, shall we?
+Before wondering how we are going to address the problem of people being afraid to deploy on Friday (or any other day of the week for that matter), we should first understand WHY people are afraid. You can't fix what you don't understand.
+
+The 'never deploy on Friday' statement is not just a blanket statement, it's also just a patch to fight a symptom, not actually addressing the root causes(s) that are underneath. And there are quite a few underlying issues, so let's start with the most important one and work from there, shall we?
 
 ## The ideal situation
 
