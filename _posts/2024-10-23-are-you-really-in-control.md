@@ -6,7 +6,7 @@ tags:   [DevOps]
 
 ## So you don't deploy on Friday. But does the same apply to all your dependencies?
 
-No deploys, no problems, right? This may be true if your applications run in isolation in an environment fully under your control, but in my experience this is rarely the case in modern enterprise software development. Are you really in control as much as you think you are? Let's check it out!
+No deploys, no problems, right? This may be true if your applications run in isolation in an environment fully under your control, but in my experience this is rarely the case in modern enterprise software development. Are you really in control as much as you think you are?
 
 ## Are you really in full control?
 
@@ -18,7 +18,7 @@ When it comes to 3rd party dependencies, you don't know when they'll deploy, reg
 
 The providers of the services you consume know this: check their SLAs if you don't believe me, but you too will learn that exactly zero of them will guarantee a 100% availability. So the question is not íf downtime will occur, but when. Even when you yourself are not deploying anything.
 
-## Deploy on Friday or not deploy on Friday, that's not really the question. ;)
+## To deploy on Friday or not to deploy on Friday, that's not the question
 
 Because you do not control any of the 3rd party services you depend on, think about what would happen if one of them would go down. On a Friday, or any other day of the week. Will it cause massive downtime for your application(s)? Can you switch/failover/mitigate quickly? How much impact is there on revenue if it does happen? Will you even know right away, or not until the contact centers are overloaded by a barrage of angry customers? 
 
@@ -26,7 +26,7 @@ Not all dependencies are created equally or will have business/revenue impact wh
 
 The reality is that many of the things that help deploying on Friday with confidence, you should also be doing when deploying on any other day of the week, and even when you're not deploying at all. You will always need observability, resilience, failover, fast builds/deployments/rollbacks, etc. etc. regardless of the day of the week and regardless of whether you are deploying something yourself or not. Once those are in place, being able to deploy on a Friday is just a bonus.
 
-## 'Deploy on Friday!' is just the hook
+## Summary
 
 This blog is called 'Deploy on Friday!', but it's really just a hook. It's not (just) about the Friday at all. As a matter of fact, it's not even always about you doing any deploying at all!
 
