@@ -10,7 +10,9 @@ No deploys, no problems, right? This may be true if your applications run in iso
 
 ## Are you really in full control?
 
-Are you deploying on a 3rd party cloud service, such as AWS, Azure or Google Cloud? Are you using 3rd party services in your application(s)? We are often depending on many 3rd party services, including (but certainly not limited to) hosting, DNS, databases, message queues, container runtimes, observability, logging, paging, Generative AI and many, many more. Many of them may be part of your own company/organisation, which may give you some control (but typically not full), but there may be just as many, or more, that you consume from a 3rd party, for which you will have no control at all.
+Are you deploying on a 3rd party cloud service, such as AWS, Azure or Google Cloud? Are you using 3rd party services in your application(s)? We are often depending on many 3rd party services, including (but certainly not limited to) hosting, DNS, databases, message queues, container runtimes, observability, logging, paging, Generative AI and many, many more.
+
+Many of these dependencies may be part of your own company/organisation, which may give you some control (but typically not full), but there may be just as many, or more, that you consume from a 3rd party, for which you will have no control at all.
 
 When it comes to 3rd party dependencies, you don't know when they'll deploy, regardless of the day and time. Even if none of them deploy on a Friday, things can still break or go down for reasons not known to you at this point in time. Things break.
 
@@ -26,7 +28,7 @@ The reality is that many of the things that help deploying on Friday with confid
 
 ## 'Deploy on Friday!' is just the hook
 
-This blog is called 'Deploy on Friday!', but it's really just a hook. It's not (just) about the Friday at all, but it's about any day of the week. As a matter of fact, it's not always about you doing any deploying at all!
+This blog is called 'Deploy on Friday!', but it's really just a hook. It's not (just) about the Friday at all. As a matter of fact, it's not even always about you doing any deploying at all!
 
 Design your systems to be observable and resilient (esp. to outside changes) and they will be able to weather a storm whenever it may occur. Which is typically on the moment that's the least convenient to you. Implementing better practices is hard and difficult work, but you can do this at a time of your choosing. Outages pick the time for you, especially those in dependencies beyond your control!
 
