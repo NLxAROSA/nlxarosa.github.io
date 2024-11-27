@@ -10,8 +10,8 @@ mastodon:
 - username: "larsrosenquist"
   instance: "mastodon.social" 
 bluesky:
-- username: "larsrosenquist"
-  instance: "bsky.social"
+- username: "calvobianco"
+  instance: ".com"
 
 theme: "minima"
 
