@@ -11,7 +11,7 @@ mastodon:
   instance: "mastodon.social" 
 bluesky:
 - username: "calvobianco"
-  instance: ".com"
+  instance: "com"
 
 theme: "minima"
 
